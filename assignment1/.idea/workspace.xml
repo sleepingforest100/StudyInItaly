@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed7b6db9-5062-45b8-adc1-df1555c2d609" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Мадина\Documents\GitHub\assignment1\assignment1" />
       <recent name="C:\Users\Мадина\Documents\GitHub\assignment1\assignment1\src" />
     </key>
   </component>
@@ -69,7 +69,7 @@
       <workItem from="1695015139082" duration="23000" />
       <workItem from="1695015174046" duration="452000" />
       <workItem from="1695111356846" duration="1951000" />
-      <workItem from="1695121754057" duration="982000" />
+      <workItem from="1695121754057" duration="1951000" />
     </task>
     <servers />
   </component>
